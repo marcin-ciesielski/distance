@@ -8,7 +8,7 @@ print('*  dane podajemy w konwencji:  Ulica Nr Budynku Miasto               *')
 print('*'*70)
 print()
 
-key ='5b3ce3597851110001cf6248aa9d068a6a23484287db207a1ee598d4'
+key ='Tu wstaw swój klucz z api.openrouteservice.org / Paste your key from api.openrouteservice.org'
 start = input('Podaj adres (skąd): ')
 end = input('Podaj adres (dokąd): ')
 
